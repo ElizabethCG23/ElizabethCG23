@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+main {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 0 15px;
+}
+
+#chart-container {
+    width: 100%; /* Permite que el contenedor se ajuste al ancho disponible */
+    box-sizing: border-box; /* Incluye padding y border en el ancho total */
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    min-height: 300px; /* Altura mínima para asegurar visibilidad antes de que D3 dibuje */
+    display: flex; /* Para centrar el mensaje de carga */
+    justify-content: center; /* Para centrar el mensaje de carga */
+    align-items: center; /* Para centrar el mensaje de carga */
+}
+
+/* Estilos básicos para el SVG y los elementos de D3 */
+.bar {
+    fill: steelblue;
+    transition: fill 0.3s ease; /* Efecto de transición para el hover */
+}
+
+.bar:hover {
+    fill: orange; /* Color al pasar el mouse (tooltip) */
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #888;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-size: 10px;
+    fill: #555;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 8px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none; /* Crucial para que el tooltip no interfiera con eventos del gráfico */
+    opacity: 0; /* Inicialmente oculto */
+}
+
+/* Estilo para el mensaje de carga */
+#loading-message {
+    font-size: 1.2em;
+    color: #666;
+}
+
+/* Media Queries para Responsividad */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.8em;
+    }
+    main {
+        margin: 10px auto;
+        padding: 0 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.5em;
+    }
+    .bar {
+        width: calc(100% / var(--num-bars) - 4px); /* Ajuste si las barras son muy pequeñas */
+    }
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    margin-top: 20px;
+    background-color: #eee;
+    color: #666;
+    font-size: 0.9em;
+}
+
+/* Asegurando un buen contraste de colores */
+body {
+    background-color: #f4f4f4; /* Contraste con el texto #333 */
+}
+header {
+    background-color: #4CAF50; /* Verde oscuro */
+    color: white; /* Contraste alto con el fondo verde */
+}
+.tooltip {
+    background: lightsteelblue; /* Azul claro */
+    color: #333; /* Contraste con el fondo azul claro */
+}

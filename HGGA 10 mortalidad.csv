@@ -1,0 +1,1176 @@
+anio,cie10,mortalidad,numero_pacientes
+2013,J189,"Neumonía, no especificada",87
+2013,A419,"Sepsis, no especificada",42
+2013,I219,"Infarto agudo del miocardio, sin otra especificación",16
+2013,P369,"Sepsis bacteriana del recién nacido, no especificada",14
+2013,K729,"Insuficiencia hepática, no especificada",10
+2013,K550,Trastorno vascular agudo de los intestinos,7
+2013,I509,"Insuficiencia cardíaca, no especificada",7
+2013,B24X,"Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación",7
+2013,P220,Síndrome de dificultad respiratoria del recién nacido,6
+2013,I678,Otras enfermedades cerebrovasculares especificadas,6
+2013,K659,"Peritonitis, no especificada",6
+2013,E872,Acidosis,6
+2013,I10X,Hipertensión esencial (primaria),6
+2013,C809,"Tumor maligno, sitio primario no especificado",5
+2013,K830,Colangitis,5
+2013,Q249,"Malformación congénita del corazón, no especificada",5
+2013,N189,"Enfermedad renal crónica, no especificada",4
+2013,K922,"Hemorragia gastrointestinal, no especificada",4
+2013,I500,Insuficiencia cardíaca congestiva,4
+2013,K859,"Pancreatitis aguda, no especificada",4
+2013,K851,Pancreatitis biliar aguda,3
+2013,P073,Otros recién nacidos pretérmino,3
+2013,P072,Inmaturidad extrema,3
+2013,K701,Hepatitis alcohólica,3
+2013,N12X,"Nefritis tubulointersticial, no especificada como aguda o crónica",3
+2013,C221,Carcinoma de vías biliares intrahepáticas,3
+2013,N498,Otros trastornos inflamatorios de los órganos genitales masculinos,2
+2013,I609,"Hemorragia subaracnoidea, no especificada",2
+2013,A483,Síndrome del choque tóxico,2
+2013,J969,"Insuficiencia respiratoria, no especificada",2
+2013,P238,Neumonía congénita debida a otros organismos,2
+2013,K37X,"Apendicitis, no especificada",2
+2013,Q039,"Hidrocéfalo congénito, no especificado",2
+2013,P219,"Asfixia del nacimiento, no especificada",2
+2013,C169,"Tumor maligno del estómago, parte no especificada",2
+2013,I200,Angina inestable,2
+2013,D374,Tumor de comportamiento incierto o desconocido del colon,2
+2013,C786,Tumor maligno secundario del peritoneo y del retroperitoneo,2
+2013,N390,"Infección de vías urinarias, sitio no especificado",2
+2013,I259,"Enfermedad isquémica crónica del corazón, no especificada",2
+2013,D377,Tumor de comportamiento incierto o desconocido de otros órganos digestivos especificados,2
+2013,C61X,Tumor maligno de la próstata,2
+2013,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",2
+2013,C859,"Linfoma no Hodgkin, no especificado",2
+2013,K631,Perforación del intestino (no traumática),2
+2013,P960,Insuficiencia renal congénita,2
+2013,I679,"Enfermedad cerebrovascular, no especificada",2
+2013,I829,Embolia y trombosis de vena no especificada,2
+2013,D696,Trombocitopenia no especificada,1
+2013,N179,"Insuficiencia renal aguda, no especificada",1
+2013,C56X,Tumor maligno del ovario,1
+2013,I638,Otros Infartos cerebrales,1
+2013,C788,Tumor maligno secundario de otros órganos digestivos y de los no especificados,1
+2013,C250,Tumor maligno de la cabeza del páncreas,1
+2013,K721,Insuficiencia hepática crónica,1
+2013,C910,Leucemia linfoblástica aguda [LLA],1
+2013,M349,"Esclerosis sistémica, no especificada",1
+2013,I771,Estrechez arterial,1
+2013,C679,"Tumor maligno de la vejiga urinaria, parte no especificada",1
+2013,I828,Embolia y trombosis de otras venas especificadas,1
+2013,P293,Persistencia de la circulación fetal,1
+2013,P522,"Hemorragia intraventricular (no traumática) grado 3, del feto y del recién nacido",1
+2013,K704,Insuficiencia hepática alcohólica,1
+2013,C911,Leucemia linfocítica crónica de célula tipo B,1
+2013,K746,Otras cirrosis del hígado y las no especificadas,1
+2013,C921,"Leucemia mieloide crónica [LMC], BCR/ABL-positivo",1
+2013,G932,Hipertensión intracraneal benigna,1
+2013,C412,Tumor maligno de la columna vertebral,1
+2013,N009,"Síndrome nefrítico agudo, no especificada",1
+2013,A418,Otras sepsis especificadas,1
+2013,I129,Enfermedad renal hipertensiva sin insuficiencia renal,1
+2013,J677,Neumonitis de la ventilación debida al acondicionador y humidificador del aire,1
+2013,I269,Embolia pulmonar sin mención de corazón pulmonar agudo,1
+2013,J850,Gangrena y necrosis del pulmón,1
+2013,P239,"Neumonía congénita, organismo no especificado",1
+2013,J852,Absceso del pulmón sin neumonía,1
+2013,C819,"Linfoma de Hodgkin, no especificado",1
+2013,J960,Insuficiencia respiratoria aguda,1
+2013,E145,"Diabetes mellitus no especificada, con complicaciones circulatorias periféricas",1
+2013,D376,"Tumor de comportamiento incierto o desconocido del hígado, de la vesícula biliar y del conducto biliar",1
+2013,K720,Insuficiencia hepática aguda o subaguda,1
+2013,K255,"Úlcera gástrica, crónica o no especificada, con perforación",1
+2013,E272,Crisis addisoniana,1
+2013,K259,"Úlcera gástrica, no especificada como aguda ni crónica, sin hemorragia ni perforación",1
+2013,K750,Absceso del hígado,1
+2013,K261,"Úlcera duodenal, aguda con perforación",1
+2013,G049,"Encefalitis, mielitis y encefalomielitis, no especificadas",1
+2013,K269,"Úlcera duodenal, no especificada como aguda ni crónica, sin hemorragia ni perforación",1
+2013,G98X,"Otros trastornos del sistema nervioso, no clasificados en otra parte",1
+2013,K350,Apendicitis aguda con peritonitis generalizada,1
+2013,N008,"Síndrome nefrítico agudo, otras",1
+2013,C509,"Tumor maligno de la mama, parte no especificada",1
+2013,C189,"Tumor maligno del colon, parte no especificada",1
+2013,K403,"Hernia inguinal unilateral o no especificada, con obstrucción, sin gangrena",1
+2013,N180,Insuficiencia renal terminal,1
+2013,K469,"Hernia abdominal no especificada, sin obstrucción ni gangrena",1
+2013,C220,Carcinoma de células hepáticas,1
+2013,D379,"Tumor de comportamiento incierto o desconocido de órganos digestivos, sitio no especificado",1
+2013,A89X,"Infección viral del sistema nervioso central, no especificada",1
+2013,K559,"Trastorno vascular del intestino, no especificado",1
+2013,I499,"Arritmia cardíaca, no especificada",1
+2013,K566,Otras obstrucciones intestinales y las no especificadas,1
+2013,C241,Tumor maligno de la ampolla de Vater,1
+2013,K579,"Enfermedad diverticular del intestino, parte no especificada, sin perforación ni absceso",1
+2013,P279,Enfermedad respiratoria crónica no especificada originada en el período perinatal,1
+2013,D487,Tumor de comportamiento incierto o desconocido de otros sitios especificados,1
+2013,I519,"Enfermedad cardíaca, no especificada",1
+2013,K650,Peritonitis aguda,1
+2013,K658,Otras peritonitis,1
+2013,Q000,Anencefalia,1
+2013,I859,Várices esofágicas sin hemorragia,1
+2013,Q229,"Malformación congénita de la válvula tricúspide, no especificada",1
+2013,J128,Neumonía debida a otros virus,1
+2013,R571,Choque hipovolémico,1
+2013,J157,Neumonía debida a Mycoplasma pneumoniae,1
+2013,A162,"Tuberculosis de pulmón, sin mención de confirmación bacteriológica o histológica",1
+2014,J189,"Neumonía, no especificada",72
+2014,A419,"Sepsis, no especificada",28
+2014,K729,"Insuficiencia hepática, no especificada",13
+2014,P220,Síndrome de dificultad respiratoria del recién nacido,10
+2014,B24X,"Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación",9
+2014,N189,"Enfermedad renal crónica, no especificada",9
+2014,I10X,Hipertensión esencial (primaria),8
+2014,K859,"Pancreatitis aguda, no especificada",8
+2014,I219,"Infarto agudo del miocardio, sin otra especificación",8
+2014,I678,Otras enfermedades cerebrovasculares especificadas,7
+2014,I509,"Insuficiencia cardíaca, no especificada",5
+2014,P369,"Sepsis bacteriana del recién nacido, no especificada",5
+2014,K659,"Peritonitis, no especificada",5
+2014,C61X,Tumor maligno de la próstata,5
+2014,J677,Neumonitis de la ventilación debida al acondicionador y humidificador del aire,5
+2014,K550,Trastorno vascular agudo de los intestinos,4
+2014,K259,"Úlcera gástrica, no especificada como aguda ni crónica, sin hemorragia ni perforación",4
+2014,K922,"Hemorragia gastrointestinal, no especificada",4
+2014,R570,Choque cardiogénico,3
+2014,K559,"Trastorno vascular del intestino, no especificado",3
+2014,I489,"Fibrilación y aleteo auricular, no especificado",3
+2014,C189,"Tumor maligno del colon, parte no especificada",3
+2014,K566,Otras obstrucciones intestinales y las no especificadas,3
+2014,J81X,Edema pulmonar,3
+2014,K631,Perforación del intestino (no traumática),3
+2014,I269,Embolia pulmonar sin mención de corazón pulmonar agudo,3
+2014,J09X,Influenza debida a virus de la influenza zoonóyico o pandémico identificados,3
+2014,K650,Peritonitis aguda,2
+2014,K830,Colangitis,2
+2014,A188,Tuberculosis de otros órganos especificados,2
+2014,I500,Insuficiencia cardíaca congestiva,2
+2014,N12X,"Nefritis tubulointersticial, no especificada como aguda o crónica",2
+2014,A162,"Tuberculosis de pulmón, sin mención de confirmación bacteriológica o histológica",2
+2014,K701,Hepatitis alcohólica,2
+2014,C349,"Tumor maligno de los bronquios o del pulmón, parte no especificada",2
+2014,K810,Colecistitis aguda,2
+2014,K37X,"Apendicitis, no especificada",2
+2014,C679,"Tumor maligno de la vejiga urinaria, parte no especificada",2
+2014,C539,"Tumor maligno del cuello del útero, sin otra especificación",2
+2014,N179,"Insuficiencia renal aguda, no especificada",2
+2014,K632,Fístula del intestino,2
+2014,K409,"Hernia inguinal unilateral o no especificada, sin obstrucción ni gangrena",2
+2014,C822,Linfoma folicular grado III no especificado,1
+2014,G931,"Lesión cerebral anóxica, no clasificada en otra parte",1
+2014,E118,"Diabetes mellitus tipo 2, con complicaciones no especificadas",1
+2014,A099,Gastroenteritis y colitis de origen no especificado,1
+2014,P072,Inmaturidad extrema,1
+2014,A89X,"Infección viral del sistema nervioso central, no especificada",1
+2014,C609,"Tumor maligno del pene, parte no especificada",1
+2014,I272,Otras hipertensiones pulmonares secundarias,1
+2014,K868,Otras enfermedades especificadas del páncreas,1
+2014,I330,Endocarditis infecciosa aguda y subaguda,1
+2014,N210,Cálculo en la vejiga,1
+2014,B182,Hepatitis viral tipo C crónica,1
+2014,C762,Tumor maligno del abdomen,1
+2014,D376,"Tumor de comportamiento incierto o desconocido del hígado, de la vesícula biliar y del conducto biliar",1
+2014,Q390,Atresia del esófago sin mención de fístula,1
+2014,D385,Tumor de comportamiento incierto o desconocido de otros órganos respiratorios y del oído medio,1
+2014,K709,"Enfermedad hepática alcohólica, no especificada",1
+2014,I609,"Hemorragia subaracnoidea, no especificada",1
+2014,E145,"Diabetes mellitus no especificada, con complicaciones circulatorias periféricas",1
+2014,I620,Hemorragia subdural (aguda) (no traumática),1
+2014,M008,Artritis y poliartritis debidas a otros agentes bacterianos especificados,1
+2014,I639,"Infarto cerebral, no especificado",1
+2014,C73X,Tumor maligno de la glándula tiroides,1
+2014,B427,Esporotricosis diseminada,1
+2014,O721,Otras hemorragias postparto inmediatas,1
+2014,I850,Várices esofágicas con hemorragia,1
+2014,P210,"Asfixia del nacimiento, severa",1
+2014,B465,"Mucormicosis, sin otra especificación",1
+2014,P251,Neumotórax originado en el período perinatal,1
+2014,A010,Fiebre tifoidea,1
+2014,Q249,"Malformación congénita del corazón, no especificada",1
+2014,A170,Meningitis tuberculosa,1
+2014,A199,"Tuberculosis miliar, sin otra especificación",1
+2014,C221,Carcinoma de vías biliares intrahepáticas,1
+2014,D823,Inmunodeficiencia consecutiva a respuesta defectuosa hereditaria contra el virus de Epstein-Barr,1
+2014,C259,"Tumor maligno del páncreas, parte no especificada",1
+2014,E039,"Hipotiroidismo, no especificado",1
+2014,J841,Otras enfermedades pulmonares intersticiales con fibrosis,1
+2014,K822,Perforación de la vesícula biliar,1
+2014,J90X,Derrame pleural no clasificado en otra parte,1
+2014,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",1
+2014,K122,Celulitis y absceso de boca,1
+2014,G039,"Meningitis, no especificada",1
+2014,K223,Perforación del esófago,1
+2014,M869,"Osteomielitis, no especificada",1
+2014,D410,Tumor de comportamiento incierto o desconocido del riñón,1
+2014,G936,Edema cerebral,1
+2014,K269,"Úlcera duodenal, no especificada como aguda ni crónica, sin hemorragia ni perforación",1
+2014,N19X,Insuficiencia renal no especificada,1
+2014,K274,"Úlcera péptica, de sitio no especificado, crónica o no especificada, con hemorragia",1
+2014,N499,"Trastorno inflamatorio de órgano genital masculino, no especificado",1
+2014,D471,Enfermedad mieloproliferativa crónica,1
+2014,O995,"Enfermedades del sistema respiratorio que complican el embarazo, el parto y el puerperio",1
+2014,D374,Tumor de comportamiento incierto o desconocido del colon,1
+2014,P073,Otros recién nacidos pretérmino,1
+2014,C482,"Tumor maligno del peritoneo, sin otra especificación",1
+2014,P219,"Asfixia del nacimiento, no especificada",1
+2014,C509,"Tumor maligno de la mama, parte no especificada",1
+2014,P238,Neumonía congénita debida a otros organismos,1
+2014,D484,Tumor de comportamiento incierto o desconocido del peritoneo,1
+2014,P285,Insuficiencia respiratoria del recién nacido,1
+2014,K579,"Enfermedad diverticular del intestino, parte no especificada, sin perforación ni absceso",1
+2014,P529,"Hemorragia intracraneal (no traumática) del feto y del recién nacido, sin otra especificación",1
+2014,K613,Absceso isquiorrectal,1
+2014,Q251,Coartación de la aorta,1
+2014,C541,Tumor maligno del endometrio,1
+2014,Q447,Otras malformaciones congénitas del hígado,1
+2014,D65X,Coagulación intravascular diseminada [síndrome de desfibrinación],1
+2014,D758,Otras enfermedades especificadas de la sangre y de los órganos hematopoyéticos,1
+2014,J157,Neumonía debida a Mycoplasma pneumoniae,1
+2015,J189,"Neumonía, no especificada",54
+2015,K729,"Insuficiencia hepática, no especificada",19
+2015,A419,"Sepsis, no especificada",19
+2015,P072,Inmaturidad extrema,17
+2015,N189,"Enfermedad renal crónica, no especificada",14
+2015,N179,"Insuficiencia renal aguda, no especificada",12
+2015,I678,Otras enfermedades cerebrovasculares especificadas,10
+2015,J677,Neumonitis de la ventilación debida al acondicionador y humidificador del aire,7
+2015,B24X,"Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación",6
+2015,K830,Colangitis,6
+2015,I269,Embolia pulmonar sin mención de corazón pulmonar agudo,6
+2015,I10X,Hipertensión esencial (primaria),5
+2015,L089,"Infección local de la piel y del tejido subcutáneo, no especificada",5
+2015,K859,"Pancreatitis aguda, no especificada",5
+2015,E145,"Diabetes mellitus no especificada, con complicaciones circulatorias periféricas",4
+2015,P220,Síndrome de dificultad respiratoria del recién nacido,4
+2015,K631,Perforación del intestino (no traumática),4
+2015,K922,"Hemorragia gastrointestinal, no especificada",4
+2015,E111,"Diabetes mellitus tipo 2, con cetoacidosis",4
+2015,K659,"Peritonitis, no especificada",3
+2015,C509,"Tumor maligno de la mama, parte no especificada",3
+2015,I259,"Enfermedad isquémica crónica del corazón, no especificada",3
+2015,K750,Absceso del hígado,3
+2015,I829,Embolia y trombosis de vena no especificada,3
+2015,J869,Piotórax sin fístula,3
+2015,K550,Trastorno vascular agudo de los intestinos,2
+2015,L038,Celulitis de otros sitios,2
+2015,K831,Obstrucción del conducto biliar,2
+2015,E872,Acidosis,2
+2015,J960,Insuficiencia respiratoria aguda,2
+2015,I219,"Infarto agudo del miocardio, sin otra especificación",2
+2015,Q079,"Otras malformaciones congénitas del sistema nervioso, no especificada",2
+2015,I489,"Fibrilación y aleteo auricular, no especificado",2
+2015,L029,"Absceso cutáneo, furúnculo y ántrax de sitio no especificado",2
+2015,I500,Insuficiencia cardíaca congestiva,2
+2015,N19X,Insuficiencia renal no especificada,2
+2015,I771,Estrechez arterial,2
+2015,P369,"Sepsis bacteriana del recién nacido, no especificada",2
+2015,K800,Cálculo de la vesícula biliar con colecistitis aguda,1
+2015,D391,Tumor de comportamiento incierto o desconocido del ovario,1
+2015,L088,Otras infecciones locales especificadas de la piel y del tejido subcutáneo,1
+2015,I608,Otras hemorragias subaracnoideas,1
+2015,P209,"Hipoxia intrauterina, no especificada",1
+2015,I609,"Hemorragia subaracnoidea, no especificada",1
+2015,C859,"Linfoma no Hodgkin, no especificado",1
+2015,I619,"Hemorragia intraencefálica, no especificada",1
+2015,M869,"Osteomielitis, no especificada",1
+2015,C259,"Tumor maligno del páncreas, parte no especificada",1
+2015,N498,Otros trastornos inflamatorios de los órganos genitales masculinos,1
+2015,G939,"Trastorno del encéfalo, no especificado",1
+2015,C73X,Tumor maligno de la glándula tiroides,1
+2015,I801,Flebitis y tromboflebitis de la vena femoral,1
+2015,C809,"Tumor maligno, sitio primario no especificado",1
+2015,C349,"Tumor maligno de los bronquios o del pulmón, parte no especificada",1
+2015,I330,Endocarditis infecciosa aguda y subaguda,1
+2015,I859,Várices esofágicas sin hemorragia,1
+2015,L97X,"Úlcera de miembro inferior, no clasificada en otra parte",1
+2015,C479,"Tumor maligno de los nervios periféricos y del sistema nervioso autónomo, parte no especificada",1
+2015,N039,"Síndrome nefrítico crónico, no especificada",1
+2015,J449,"Enfermedad pulmonar obstructiva crónica, no especificada",1
+2015,G001,Meningitis neumocócica,1
+2015,C482,"Tumor maligno del peritoneo, sin otra especificación",1
+2015,O993,"Trastornos mentales y enfermedades del sistema nervioso que complican el embarazo, el parto y el puerperio",1
+2015,J690,Neumonitis debida a aspiración de alimento o vómito,1
+2015,D762,Síndrome hemofagocítico asociado a infección,1
+2015,J81X,Edema pulmonar,1
+2015,K754,Hepatitis autoinmune,1
+2015,Q254,Otras malformaciones congénitas de la aorta,1
+2015,K810,Colecistitis aguda,1
+2015,A169,"Tuberculosis respiratoria no especificada, sin mención de confirmación bacteriológica o histológica",1
+2015,C229,"Tumor maligno del hígado, no especificado",1
+2015,C189,"Tumor maligno del colon, parte no especificada",1
+2015,C900,Mieloma múltiple,1
+2015,J985,"Enfermedades del mediastino, no clasificadas en otra parte",1
+2015,I340,Insuficiencia (de la válvula) mitral,1
+2015,K409,"Hernia inguinal unilateral o no especificada, sin obstrucción ni gangrena",1
+2015,C910,Leucemia linfoblástica aguda [LLA],1
+2015,C187,Tumor maligno del colon sigmoide,1
+2015,M726,Fascitis necrotizante,1
+2015,K559,"Trastorno vascular del intestino, no especificado",1
+2015,N009,"Síndrome nefrítico agudo, no especificada",1
+2015,K566,Otras obstrucciones intestinales y las no especificadas,1
+2015,N12X,"Nefritis tubulointersticial, no especificada como aguda o crónica",1
+2015,P368,Sepsis del recién nacido debida a otras bacterias,1
+2015,D487,Tumor de comportamiento incierto o desconocido de otros sitios especificados,1
+2015,P77X,Enterocolitis necrotizante del feto y del recién nacido,1
+2015,N322,"Fístula de la vejiga, no clasificada en otra parte",1
+2015,P809,"Hipotermia del recién nacido, no especificada",1
+2015,N499,"Trastorno inflamatorio de órgano genital masculino, no especificado",1
+2015,P960,Insuficiencia renal congénita,1
+2015,D65X,Coagulación intravascular diseminada [síndrome de desfibrinación],1
+2015,C221,Carcinoma de vías biliares intrahepáticas,1
+2015,P219,"Asfixia del nacimiento, no especificada",1
+2015,K701,Hepatitis alcohólica,1
+2015,G919,"Hidrocéfalo, no especificado",1
+2015,C719,"Tumor maligno del encéfalo, parte no especificada",1
+2015,K574,Enfermedad diverticular de ambos intestinos con perforación y absceso,1
+2015,P780,Perforación intestinal perinatal,1
+2015,K579,"Enfermedad diverticular del intestino, parte no especificada, sin perforación ni absceso",1
+2015,P914,Depresión cerebral neonatal,1
+2015,B209,"Enfermedad por VIH, resultante en enfermedad infecciosa o parasitaria no especificada",1
+2015,P968,Otras afecciones especificadas originadas en el período perinatal,1
+2015,K650,Peritonitis aguda,1
+2015,C159,"Tumor maligno del esófago, parte no especificada",1
+2015,C679,"Tumor maligno de la vejiga urinaria, parte no especificada",1
+2015,J90X,Derrame pleural no clasificado en otra parte,1
+2016,J189,"Neumonía, no especificada",57
+2016,P072,Inmaturidad extrema,15
+2016,E119,"Diabetes mellitus tipo 2, sin mención de complicación",11
+2016,B24X,"Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación",9
+2016,I10X,Hipertensión esencial (primaria),9
+2016,E149,"Diabetes mellitus no especificada, sin mención de complicación",8
+2016,A419,"Sepsis, no especificada",7
+2016,K729,"Insuficiencia hepática, no especificada",7
+2016,I678,Otras enfermedades cerebrovasculares especificadas,4
+2016,K631,Perforación del intestino (no traumática),4
+2016,I219,"Infarto agudo del miocardio, sin otra especificación",4
+2016,L089,"Infección local de la piel y del tejido subcutáneo, no especificada",4
+2016,I269,Embolia pulmonar sin mención de corazón pulmonar agudo,4
+2016,K922,"Hemorragia gastrointestinal, no especificada",3
+2016,K859,"Pancreatitis aguda, no especificada",3
+2016,K721,Insuficiencia hepática crónica,3
+2016,I619,"Hemorragia intraencefálica, no especificada",3
+2016,I509,"Insuficiencia cardíaca, no especificada",3
+2016,A090,Otras gastroenteritis y colitis de origen infeccioso,3
+2016,K650,Peritonitis aguda,2
+2016,M329,"Lupus eritematoso sistémico, sin otra especificación",2
+2016,K746,Otras cirrosis del hígado y las no especificadas,2
+2016,E118,"Diabetes mellitus tipo 2, con complicaciones no especificadas",2
+2016,N390,"Infección de vías urinarias, sitio no especificado",2
+2016,C349,"Tumor maligno de los bronquios o del pulmón, parte no especificada",2
+2016,C73X,Tumor maligno de la glándula tiroides,2
+2016,J111,"Influenza con otras manifestaciones respiratorias, virus no identificado",2
+2016,K830,Colangitis,2
+2016,J181,"Neumonía lobar, no especificada",2
+2016,N179,"Insuficiencia renal aguda, no especificada",2
+2016,R58X,"Hemorragia, no clasificada en otra parte",2
+2016,Q250,Conducto arterioso persistente,2
+2016,K550,Trastorno vascular agudo de los intestinos,2
+2016,K559,"Trastorno vascular del intestino, no especificado",2
+2016,Q249,"Malformación congénita del corazón, no especificada",1
+2016,M349,"Esclerosis sistémica, no especificada",1
+2016,K810,Colecistitis aguda,1
+2016,I447,"Bloqueo de rama izquierda del haz, sin otra especificación",1
+2016,O992,"Enfermedades endocrinas, de la nutrición y del metabolismo que complican el embarazo, el parto y el puerperio",1
+2016,I489,"Fibrilación y aleteo auricular, no especificado",1
+2016,E142,"Diabetes mellitus no especificada, con complicaciones renales",1
+2016,I490,Fibrilación y aleteo ventricular,1
+2016,C859,"Linfoma no Hodgkin, no especificado",1
+2016,I499,"Arritmia cardíaca, no especificada",1
+2016,N189,"Enfermedad renal crónica, no especificada",1
+2016,C221,Carcinoma de vías biliares intrahepáticas,1
+2016,P293,Persistencia de la circulación fetal,1
+2016,I609,"Hemorragia subaracnoidea, no especificada",1
+2016,K720,Insuficiencia hepática aguda o subaguda,1
+2016,I616,Hemorragia intraencefálica de localizaciones múltiples,1
+2016,K750,Absceso del hígado,1
+2016,D489,"Tumor de comportamiento incierto o desconocido, de sitio no especificado",1
+2016,B178,Otras hepatitis virales agudas especificadas,1
+2016,C541,Tumor maligno del endometrio,1
+2016,L511,Eritema multiforme flictenular,1
+2016,I749,Embolia y trombosis de arteria no especificada,1
+2016,N009,"Síndrome nefrítico agudo, no especificada",1
+2016,J100,"Influenza con neumonía, debida a otro virus de la influenza estacional identificado",1
+2016,N498,Otros trastornos inflamatorios de los órganos genitales masculinos,1
+2016,D848,Otras inmunodeficiencias especificadas,1
+2016,P228,Otras dificultades respiratorias del recién nacido,1
+2016,J159,"Neumonía bacteriana, no especificada",1
+2016,Q211,Defecto del tabique auricular,1
+2016,J180,"Bronconeumonía, no especificada",1
+2016,C20X,Tumor maligno del recto,1
+2016,E111,"Diabetes mellitus tipo 2, con cetoacidosis",1
+2016,C710,"Tumor maligno del cerebro, excepto lóbulos y ventrículos",1
+2016,D471,Enfermedad mieloproliferativa crónica,1
+2016,E145,"Diabetes mellitus no especificada, con complicaciones circulatorias periféricas",1
+2016,A162,"Tuberculosis de pulmón, sin mención de confirmación bacteriológica o histológica",1
+2016,K801,Cálculo de la vesícula biliar con otra colecistitis,1
+2016,J841,Otras enfermedades pulmonares intersticiales con fibrosis,1
+2016,K811,Colecistitis crónica,1
+2016,J852,Absceso del pulmón sin neumonía,1
+2016,C819,"Linfoma de Hodgkin, no especificado",1
+2016,K20X,Esofagitis,1
+2016,C959,"Leucemia, no especificada",1
+2016,K290,Gastritis aguda hemorrágica,1
+2016,E872,Acidosis,1
+2016,K37X,"Apendicitis, no especificada",1
+2016,M869,"Osteomielitis, no especificada",1
+2016,A165,"Pleuresía tuberculosa, sin mención de confirmación bacteriológica o histológica",1
+2016,G418,Otros estados epilépticos,1
+2016,Q631,"Riñón lobulado, fusionado y en herradura",1
+2016,B230,Síndrome de infección aguda debida a VIH,1
+2016,D430,"Tumor de comportamiento incierto o desconocido del encéfalo, supratentorial",1
+2016,O266,"Trastornos del hígado en el embarazo, el parto y el puerperio",1
+2016,K599,"Trastorno funcional intestinal, no especificado",1
+2016,D361,Tumor benigno de los nervios periféricos y del sistema nervioso autónomo,1
+2016,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",1
+2016,P239,"Neumonía congénita, organismo no especificado",1
+2016,E141,"Diabetes mellitus no especificada, con cetoacidosis",1
+2016,P369,"Sepsis bacteriana del recién nacido, no especificada",1
+2016,K659,"Peritonitis, no especificada",1
+2016,Q213,Tetralogía de Fallot,1
+2016,K701,Hepatitis alcohólica,1
+2016,A169,"Tuberculosis respiratoria no especificada, sin mención de confirmación bacteriológica o histológica",1
+2016,K703,Cirrosis hepática alcohólica,1
+2016,K704,Insuficiencia hepática alcohólica,1
+2016,K572,Enfermedad diverticular del intestino grueso con perforación y absceso,1
+2016,J449,"Enfermedad pulmonar obstructiva crónica, no especificada",1
+2017,E119,"Diabetes mellitus tipo 2, sin mención de complicación",20
+2017,J189,"Neumonía, no especificada",20
+2017,I10X,Hipertensión esencial (primaria),19
+2017,K729,"Insuficiencia hepática, no especificada",15
+2017,B24X,"Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación",10
+2017,E149,"Diabetes mellitus no especificada, sin mención de complicación",9
+2017,P072,Inmaturidad extrema,7
+2017,N179,"Insuficiencia renal aguda, no especificada",5
+2017,A419,"Sepsis, no especificada",4
+2017,I500,Insuficiencia cardíaca congestiva,3
+2017,M321,Lupus eritematoso sistémico con compromiso de órganos o sistemas,3
+2017,K859,"Pancreatitis aguda, no especificada",3
+2017,J110,"Influenza con neumonía, virus no identificado",3
+2017,K631,Perforación del intestino (no traumática),3
+2017,P209,"Hipoxia intrauterina, no especificada",3
+2017,F102,"Trastornos mentales y del comportamiento debidos al uso de alcohol, síndrome de dependencia",3
+2017,K550,Trastorno vascular agudo de los intestinos,3
+2017,J449,"Enfermedad pulmonar obstructiva crónica, no especificada",3
+2017,K266,"Úlcera duodenal, crónica o no especificada, con hemorragia y perforación",2
+2017,P035,Feto y recién nacido afectados por parto precipitado,2
+2017,C169,"Tumor maligno del estómago, parte no especificada",2
+2017,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",2
+2017,C189,"Tumor maligno del colon, parte no especificada",2
+2017,E039,"Hipotiroidismo, no especificado",2
+2017,J09X,Influenza debida a virus de la influenza zoonóyico o pandémico identificados,2
+2017,K659,"Peritonitis, no especificada",2
+2017,N189,"Enfermedad renal crónica, no especificada",2
+2017,I219,"Infarto agudo del miocardio, sin otra especificación",2
+2017,Q226,Síndrome de hipoplasia del corazón derecho,2
+2017,E115,"Diabetes mellitus tipo 2, con complicaciones circulatorias periféricas",2
+2017,P369,"Sepsis bacteriana del recién nacido, no especificada",2
+2017,K922,"Hemorragia gastrointestinal, no especificada",2
+2017,M069,"Artritis reumatoide, no especificada",2
+2017,J111,"Influenza con otras manifestaciones respiratorias, virus no identificado",2
+2017,E872,Acidosis,1
+2017,D692,Otras púrpuras no trombocitopénicas,1
+2017,K830,Colangitis,1
+2017,G049,"Encefalitis, mielitis y encefalomielitis, no especificadas",1
+2017,O142,Síndrome HELLP,1
+2017,G35X,Esclerosis múltiple,1
+2017,K739,"Hepatitis crónica, no especificada",1
+2017,G931,"Lesión cerebral anóxica, no clasificada en otra parte",1
+2017,D489,"Tumor de comportamiento incierto o desconocido, de sitio no especificado",1
+2017,G934,Encefalopatía no especificada,1
+2017,M726,Fascitis necrotizante,1
+2017,C61X,Tumor maligno de la próstata,1
+2017,C260,"Tumor maligno del intestino, parte no especificada",1
+2017,C629,"Tumor maligno del testículo, no especificado",1
+2017,Q899,"Malformación congénita, no especificada",1
+2017,I269,Embolia pulmonar sin mención de corazón pulmonar agudo,1
+2017,K750,Absceso del hígado,1
+2017,I350,Estenosis (de la válvula) aórtica,1
+2017,K850,Pancreatitis idiopática aguda,1
+2017,I489,"Fibrilación y aleteo auricular, no especificado",1
+2017,D591,Otras anemias hemolíticas autoinmunes,1
+2017,A810,Enfermedad de Creutzfeldt-Jakob,1
+2017,B182,Hepatitis viral tipo C crónica,1
+2017,I509,"Insuficiencia cardíaca, no especificada",1
+2017,E111,"Diabetes mellitus tipo 2, con cetoacidosis",1
+2017,I609,"Hemorragia subaracnoidea, no especificada",1
+2017,B199,Hepatitis viral no especificada sin coma hepático,1
+2017,I619,"Hemorragia intraencefálica, no especificada",1
+2017,P298,Otros trastornos cardiovasculares originados en el período perinatal,1
+2017,I802,Flebitis y tromboflebitis de otros vasos profundos de los miembros inferiores,1
+2017,Q431,Enfermedad de Hirschsprung,1
+2017,C73X,Tumor maligno de la glándula tiroides,1
+2017,C539,"Tumor maligno del cuello del útero, sin otra especificación",1
+2017,C809,"Tumor maligno, sitio primario no especificado",1
+2017,K746,Otras cirrosis del hígado y las no especificadas,1
+2017,R571,Choque hipovolémico,1
+2017,K820,Obstrucción de la vesícula biliar,1
+2017,A047,Enterocolitis debida a Clostridium difficile,1
+2017,K839,"Enfermedad de las vías biliares, no especificada",1
+2017,C833,Linfoma de células grandes B difuso,1
+2017,K852,Pancreatitis aguda inducida por alcohol,1
+2017,J42X,Bronquitis crónica no especificada,1
+2017,K909,"Malabsorción intestinal, no especificada",1
+2017,C859,"Linfoma no Hodgkin, no especificado",1
+2017,L032,Celulitis de la cara,1
+2017,J985,"Enfermedades del mediastino, no clasificadas en otra parte",1
+2017,M313,Granulomatosis de Wegener,1
+2017,K250,"Úlcera gástrica, aguda con hemorragia",1
+2017,M329,"Lupus eritematoso sistémico, sin otra especificación",1
+2017,C884,Linfoma de células B extranodal de zona marginal de tejido linfoide asociado a mucosas [Linfoma TLAM],1
+2017,E110,"Diabetes mellitus tipo 2, con coma",1
+2017,K37X,"Apendicitis, no especificada",1
+2017,O009,"Embarazo ectópico, no especificado",1
+2017,K404,"Hernia inguinal unilateral o no especificada, con gangrena",1
+2017,O993,"Trastornos mentales y enfermedades del sistema nervioso que complican el embarazo, el parto y el puerperio",1
+2017,C900,Mieloma múltiple,1
+2017,C250,Tumor maligno de la cabeza del páncreas,1
+2017,K562,Vólvulo,1
+2017,P219,"Asfixia del nacimiento, no especificada",1
+2017,K566,Otras obstrucciones intestinales y las no especificadas,1
+2017,E669,"Obesidad, no especificada",1
+2017,C967,"Otros tumores malignos especificados del tejido linfático, hematopoyético y tejidos afines",1
+2017,Q249,"Malformación congénita del corazón, no especificada",1
+2017,D376,"Tumor de comportamiento incierto o desconocido del hígado, de la vesícula biliar y del conducto biliar",1
+2017,Q860,Síndrome fetal (dismórfico) debido al alcohol,1
+2017,K703,Cirrosis hepática alcohólica,1
+2017,R100,Abdomen agudo,1
+2017,K704,Insuficiencia hepática alcohólica,1
+2017,D469,"Síndrome mielodisplásico, sin otra especificación",1
+2017,J151,Neumonía debida a pseudomonas,1
+2018,E119,"Diabetes mellitus tipo 2, sin mención de complicación",25
+2018,J189,"Neumonía, no especificada",18
+2018,K729,"Insuficiencia hepática, no especificada",17
+2018,B24X,"Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación",8
+2018,I10X,Hipertensión esencial (primaria),8
+2018,K859,"Pancreatitis aguda, no especificada",6
+2018,A419,"Sepsis, no especificada",5
+2018,K830,Colangitis,4
+2018,E112,"Diabetes mellitus tipo 2, con complicaciones renales",4
+2018,K803,Cálculo de conducto biliar con colangitis,4
+2018,N390,"Infección de vías urinarias, sitio no especificado",4
+2018,P072,Inmaturidad extrema,4
+2018,K631,Perforación del intestino (no traumática),3
+2018,F102,"Trastornos mentales y del comportamiento debidos al uso de alcohol, síndrome de dependencia",3
+2018,N189,"Enfermedad renal crónica, no especificada",3
+2018,I500,Insuficiencia cardíaca congestiva,3
+2018,C509,"Tumor maligno de la mama, parte no especificada",2
+2018,M321,Lupus eritematoso sistémico con compromiso de órganos o sistemas,2
+2018,C189,"Tumor maligno del colon, parte no especificada",2
+2018,K259,"Úlcera gástrica, no especificada como aguda ni crónica, sin hemorragia ni perforación",2
+2018,K746,Otras cirrosis del hígado y las no especificadas,2
+2018,K566,Otras obstrucciones intestinales y las no especificadas,2
+2018,K810,Colecistitis aguda,2
+2018,A162,"Tuberculosis de pulmón, sin mención de confirmación bacteriológica o histológica",2
+2018,E115,"Diabetes mellitus tipo 2, con complicaciones circulatorias periféricas",2
+2018,K659,"Peritonitis, no especificada",2
+2018,I219,"Infarto agudo del miocardio, sin otra especificación",2
+2018,I489,"Fibrilación y aleteo auricular, no especificado",2
+2018,N498,Otros trastornos inflamatorios de los órganos genitales masculinos,2
+2018,I509,"Insuficiencia cardíaca, no especificada",2
+2018,J111,"Influenza con otras manifestaciones respiratorias, virus no identificado",2
+2018,I259,"Enfermedad isquémica crónica del corazón, no especificada",2
+2018,B200,"Enfermedad por VIH, resultante en infección por micobacterias",1
+2018,E111,"Diabetes mellitus tipo 2, con cetoacidosis",1
+2018,C835,Linfoma linfoblástico (difuso),1
+2018,E149,"Diabetes mellitus no especificada, sin mención de complicación",1
+2018,N179,"Insuficiencia renal aguda, no especificada",1
+2018,E43X,"Desnutrición proteicocalórica severa, no especificada",1
+2018,K579,"Enfermedad diverticular del intestino, parte no especificada, sin perforación ni absceso",1
+2018,E46X,"Desnutrición proteicocalórica, no especificada",1
+2018,D489,"Tumor de comportamiento incierto o desconocido, de sitio no especificado",1
+2018,E668,Otros tipos de obesidad,1
+2018,M069,"Artritis reumatoide, no especificada",1
+2018,A170,Meningitis tuberculosa,1
+2018,E116,"Diabetes mellitus tipo 2, con otras complicaciones especificadas",1
+2018,G009,"Meningitis bacteriana, no especificada",1
+2018,C541,Tumor maligno del endometrio,1
+2018,G030,Meningitis apiógena,1
+2018,C833,Linfoma de células grandes B difuso,1
+2018,G049,"Encefalitis, mielitis y encefalomielitis, no especificadas",1
+2018,D376,"Tumor de comportamiento incierto o desconocido del hígado, de la vesícula biliar y del conducto biliar",1
+2018,G20X,Enfermedad de Parkinson,1
+2018,E035,Coma mixedematoso,1
+2018,G419,Estado de mal epiléptico de tipo no especificado,1
+2018,L539,"Afección eritematosa, no especificada",1
+2018,G710,Distrofia muscular,1
+2018,M329,"Lupus eritematoso sistémico, sin otra especificación",1
+2018,G934,Encefalopatía no especificada,1
+2018,E113,"Diabetes mellitus tipo 2, con complicaciones oftálmicas",1
+2018,G958,Otras enfermedades especificadas de la médula espinal,1
+2018,P000,Feto y recién nacido afectados por trastornos hipertensivos de la madre,1
+2018,C169,"Tumor maligno del estómago, parte no especificada",1
+2018,P240,Aspiración neonatal de meconio,1
+2018,A408,Otras sepsis estreptocócicas,1
+2018,K574,Enfermedad diverticular de ambos intestinos con perforación y absceso,1
+2018,P261,Hemorragia pulmonar masiva originada en el período perinatal,1
+2018,C719,"Tumor maligno del encéfalo, parte no especificada",1
+2018,P960,Insuficiencia renal congénita,1
+2018,K701,Hepatitis alcohólica,1
+2018,Q750,Craneosinostosis,1
+2018,C900,Mieloma múltiple,1
+2018,C220,Carcinoma de células hepáticas,1
+2018,K805,Cálculo de conducto biliar sin colangitis ni colecistitis,1
+2018,C221,Carcinoma de vías biliares intrahepáticas,1
+2018,K820,Obstrucción de la vesícula biliar,1
+2018,C259,"Tumor maligno del páncreas, parte no especificada",1
+2018,K852,Pancreatitis aguda inducida por alcohol,1
+2018,C349,"Tumor maligno de los bronquios o del pulmón, parte no especificada",1
+2018,K922,"Hemorragia gastrointestinal, no especificada",1
+2018,I678,Otras enfermedades cerebrovasculares especificadas,1
+2018,M052,Vasculitis reumatoide,1
+2018,J110,"Influenza con neumonía, virus no identificado",1
+2018,A169,"Tuberculosis respiratoria no especificada, sin mención de confirmación bacteriológica o histológica",1
+2018,C480,Tumor maligno del retroperitoneo,1
+2018,M798,Otros trastornos especificados de los tejidos blandos,1
+2018,A412,Sepsis debida a estafilococo no especificado,1
+2018,N185,"Enfermedad renal crónica, etapa 5",1
+2018,C539,"Tumor maligno del cuello del útero, sin otra especificación",1
+2018,B182,Hepatitis viral tipo C crónica,1
+2018,K315,Obstrucción del duodeno,1
+2018,O998,"Otras enfermedades especificadas y afecciones que complican el embarazo, el parto y el puerperio",1
+2018,K352,Apendicitis aguda con peritonitis generalizada,1
+2018,P035,Feto y recién nacido afectados por parto precipitado,1
+2018,K358,"Otras apendicitis agudas, y las no especificadas",1
+2018,P220,Síndrome de dificultad respiratoria del recién nacido,1
+2018,K519,"Colitis Ulcerativa, sin otra especificación",1
+2018,E145,"Diabetes mellitus no especificada, con complicaciones circulatorias periféricas",1
+2018,K550,Trastorno vascular agudo de los intestinos,1
+2018,Q039,"Hidrocéfalo congénito, no especificado",1
+2018,I269,Embolia pulmonar sin mención de corazón pulmonar agudo,1
+2018,Q899,"Malformación congénita, no especificada",1
+2018,I319,"Enfermedad del pericardio, no especificada",1
+2018,I361,Insuficiencia no reumática (de la válvula) tricúspide,1
+2019,J189,"Neumonía, no especificada",21
+2019,I10X,Hipertensión esencial (primaria),12
+2019,K830,Colangitis,10
+2019,E119,"Diabetes mellitus tipo 2, sin mención de complicación",9
+2019,P072,Inmaturidad extrema,8
+2019,K721,Insuficiencia hepática crónica,7
+2019,B24X,"Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación",7
+2019,E149,"Diabetes mellitus no especificada, sin mención de complicación",6
+2019,E117,"Diabetes mellitus tipo 2, con complicaciones múltiples",5
+2019,K631,Perforación del intestino (no traumática),5
+2019,N179,"Insuficiencia renal aguda, no especificada",4
+2019,M069,"Artritis reumatoide, no especificada",4
+2019,K659,"Peritonitis, no especificada",4
+2019,I489,"Fibrilación y aleteo auricular, no especificado",4
+2019,K859,"Pancreatitis aguda, no especificada",3
+2019,B182,Hepatitis viral tipo C crónica,3
+2019,I219,"Infarto agudo del miocardio, sin otra especificación",3
+2019,K729,"Insuficiencia hepática, no especificada",3
+2019,A419,"Sepsis, no especificada",3
+2019,J449,"Enfermedad pulmonar obstructiva crónica, no especificada",3
+2019,I802,Flebitis y tromboflebitis de otros vasos profundos de los miembros inferiores,3
+2019,K650,Peritonitis aguda,2
+2019,K750,Absceso del hígado,2
+2019,C259,"Tumor maligno del páncreas, parte no especificada",2
+2019,E112,"Diabetes mellitus tipo 2, con complicaciones renales",2
+2019,K922,"Hemorragia gastrointestinal, no especificada",2
+2019,A499,"Infección bacteriana, no especificada",2
+2019,C221,Carcinoma de vías biliares intrahepáticas,2
+2019,F102,"Trastornos mentales y del comportamiento debidos al uso de alcohol, síndrome de dependencia",2
+2019,K746,Otras cirrosis del hígado y las no especificadas,2
+2019,I509,"Insuficiencia cardíaca, no especificada",2
+2019,K810,Colecistitis aguda,2
+2019,K403,"Hernia inguinal unilateral o no especificada, con obstrucción, sin gangrena",2
+2019,M331,Otras dermatomiositis,2
+2019,K559,"Trastorno vascular del intestino, no especificado",2
+2019,C189,"Tumor maligno del colon, parte no especificada",2
+2019,C20X,Tumor maligno del recto,1
+2019,F103,"Trastornos mentales y del comportamiento debidos al uso de alcohol, estado de abstinencia",1
+2019,C349,"Tumor maligno de los bronquios o del pulmón, parte no especificada",1
+2019,G711,Trastornos miotónicos,1
+2019,G049,"Encefalitis, mielitis y encefalomielitis, no especificadas",1
+2019,B209,"Enfermedad por VIH, resultante en enfermedad infecciosa o parasitaria no especificada",1
+2019,K701,Hepatitis alcohólica,1
+2019,A183,"Tuberculosis de los intestinos, el peritoneo y los ganglios mesentéricos",1
+2019,E107,"Diabetes mellitus tipo 1, con complicaciones múltiples",1
+2019,I259,"Enfermedad isquémica crónica del corazón, no especificada",1
+2019,M329,"Lupus eritematoso sistémico, sin otra especificación",1
+2019,I269,Embolia pulmonar sin mención de corazón pulmonar agudo,1
+2019,K566,Otras obstrucciones intestinales y las no especificadas,1
+2019,I319,"Enfermedad del pericardio, no especificada",1
+2019,E145,"Diabetes mellitus no especificada, con complicaciones circulatorias periféricas",1
+2019,I481,Fibrilación auricular persistente,1
+2019,K720,Insuficiencia hepática aguda o subaguda,1
+2019,B392,"Infección pulmonar debida a Histoplasma capsulatum, sin otra especificación",1
+2019,E669,"Obesidad, no especificada",1
+2019,I500,Insuficiencia cardíaca congestiva,1
+2019,C482,"Tumor maligno del peritoneo, sin otra especificación",1
+2019,D439,"Tumor de comportamiento incierto o desconocido del sistema nervioso central, sitio no especificado",1
+2019,L089,"Infección local de la piel y del tejido subcutáneo, no especificada",1
+2019,I609,"Hemorragia subaracnoidea, no especificada",1
+2019,M358,Otras enfermedades especificadas con compromiso sistémico del tejido conjuntivo,1
+2019,I678,Otras enfermedades cerebrovasculares especificadas,1
+2019,A199,"Tuberculosis miliar, sin otra especificación",1
+2019,R570,Choque cardiogénico,1
+2019,K579,"Enfermedad diverticular del intestino, parte no especificada, sin perforación ni absceso",1
+2019,A170,Meningitis tuberculosa,1
+2019,K632,Fístula del intestino,1
+2019,J110,"Influenza con neumonía, virus no identificado",1
+2019,B206,"Enfermedad por VIH, resultante en neumonía por Pneumocystis carinii",1
+2019,J151,Neumonía debida a pseudomonas,1
+2019,K709,"Enfermedad hepática alcohólica, no especificada",1
+2019,J180,"Bronconeumonía, no especificada",1
+2019,E340,Síndrome carcinoide,1
+2019,C169,"Tumor maligno del estómago, parte no especificada",1
+2019,E43X,"Desnutrición proteicocalórica severa, no especificada",1
+2019,N189,"Enfermedad renal crónica, no especificada",1
+2019,K754,Hepatitis autoinmune,1
+2019,N390,"Infección de vías urinarias, sitio no especificado",1
+2019,K818,Otras colecistitis,1
+2019,P059,"Retardo del crecimiento fetal, no especificado",1
+2019,C56X,Tumor maligno del ovario,1
+2019,P073,Otros recién nacidos pretérmino,1
+2019,L039,Celulitis de sitio no especificado,1
+2019,Q211,Defecto del tabique auricular,1
+2019,C800,"Tumor maligno, de sitio primario desconocido, así descrito",1
+2019,K352,Apendicitis aguda con peritonitis generalizada,1
+2019,F189,"Trastornos mentales y del comportamiento debidos al uso de disolventes volátiles, trastorno mental y del comportamiento, no especificado",1
+2019,K353,Apendicitis aguda con peritonitis localizada,1
+2019,C851,"Linfoma de células B, sin otra especificación",1
+2019,K358,"Otras apendicitis agudas, y las no especificadas",1
+2019,D489,"Tumor de comportamiento incierto o desconocido, de sitio no especificado",1
+2019,N739,"Enfermedad inflamatoria pélvica femenina, no especificada",1
+2019,J939,"Neumotórax, no especificado",1
+2019,C859,"Linfoma no Hodgkin, no especificado",1
+2019,K047,Absceso periapical sin fístula,1
+2019,P298,Otros trastornos cardiovasculares originados en el período perinatal,1
+2019,K279,"Úlcera péptica, de sitio no especificado, no especificada como aguda ni crónica, sin hemorragia ni perforación",1
+2019,D376,"Tumor de comportamiento incierto o desconocido del hígado, de la vesícula biliar y del conducto biliar",1
+2019,K316,Fístula del estómago y del duodeno,1
+2019,J09X,Influenza debida a virus de la influenza zoonóyico o pandémico identificados,1
+2020,U071,"COVID-19, virus identificado.",224
+2020,U072,"COVID-19, virus no identificado.",80
+2020,I10X,Hipertensión esencial (primaria),7
+2020,E117,"Diabetes mellitus tipo 2, con complicaciones múltiples",6
+2020,J189,"Neumonía, no especificada",4
+2020,P072,Inmaturidad extrema,4
+2020,K830,Colangitis,3
+2020,F102,"Trastornos mentales y del comportamiento debidos al uso de alcohol, síndrome de dependencia",3
+2020,K550,Trastorno vascular agudo de los intestinos,3
+2020,L089,"Infección local de la piel y del tejido subcutáneo, no especificada",2
+2020,K729,"Insuficiencia hepática, no especificada",2
+2020,K709,"Enfermedad hepática alcohólica, no especificada",2
+2020,K566,Otras obstrucciones intestinales y las no especificadas,2
+2020,J449,"Enfermedad pulmonar obstructiva crónica, no especificada",2
+2020,K579,"Enfermedad diverticular del intestino, parte no especificada, sin perforación ni absceso",2
+2020,E119,"Diabetes mellitus tipo 2, sin mención de complicación",2
+2020,K631,Perforación del intestino (no traumática),2
+2020,B24X,"Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación",2
+2020,K721,Insuficiencia hepática crónica,1
+2020,Q336,Hipoplasia y displasia pulmonar,1
+2020,N008,"Síndrome nefrítico agudo, otras",1
+2020,G060,Absceso y granuloma intracraneal,1
+2020,K701,Hepatitis alcohólica,1
+2020,G938,Otros Trastornos especificados del encéfalo,1
+2020,C349,"Tumor maligno de los bronquios o del pulmón, parte no especificada",1
+2020,C914,Leucemia de células vellosas,1
+2020,P294,Isquemia miocárdica transitoria del recién nacido,1
+2020,I500,Insuficiencia cardíaca congestiva,1
+2020,E035,Coma mixedematoso,1
+2020,I509,"Insuficiencia cardíaca, no especificada",1
+2020,K719,"Enfermedad tóxica del hígado, no especificada",1
+2020,I64X,"Accidente vascular encefálico agudo, no especificado como hemorrágico o isquémico",1
+2020,K746,Otras cirrosis del hígado y las no especificadas,1
+2020,J100,"Influenza con neumonía, debida a otro virus de la influenza estacional identificado",1
+2020,E147,"Diabetes mellitus no especificada, con complicaciones múltiples",1
+2020,J110,"Influenza con neumonía, virus no identificado",1
+2020,E41X,Marasmo nutricional,1
+2020,J151,Neumonía debida a pseudomonas,1
+2020,P916,Encefalopatía hipoxico isquémica del recién nacido,1
+2020,C959,"Leucemia, no especificada",1
+2020,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",1
+2020,D329,"Tumor benigno de las meninges, parte no especificada",1
+2020,K650,Peritonitis aguda,1
+2020,J849,"Enfermedad pulmonar intersticial, no especificada",1
+2020,C221,Carcinoma de vías biliares intrahepáticas,1
+2020,K223,Perforación del esófago,1
+2020,K720,Insuficiencia hepática aguda o subaguda,1
+2020,K251,"Úlcera gastrica, aguda con perforación",1
+2020,E118,"Diabetes mellitus tipo 2, con complicaciones no especificadas",1
+2020,C169,"Tumor maligno del estómago, parte no especificada",1
+2020,K750,Absceso del hígado,1
+2020,C220,Carcinoma de células hepáticas,1
+2020,K859,"Pancreatitis aguda, no especificada",1
+2020,K403,"Hernia inguinal unilateral o no especificada, con obstrucción, sin gangrena",1
+2020,M869,"Osteomielitis, no especificada",1
+2020,K420,"Hernia umbilical con obstrucción, sin gangrena",1
+2020,N179,"Insuficiencia renal aguda, no especificada",1
+2020,K460,"Hernia abdominal no especificada, con obstrucción, sin gangrena",1
+2020,P219,"Asfixia del nacimiento, no especificada",1
+2020,D374,Tumor de comportamiento incierto o desconocido del colon,1
+2020,P60X,Coagulación intravascular diseminada en el feto y el recién nacido,1
+2020,K564,Otras obstrucciones del intestino,1
+2020,Q248,"Otras malformaciones congénitas del corazón, especificadas",1
+2020,D410,Tumor de comportamiento incierto o desconocido del riñón,1
+2020,Q868,Otros síndromes de malformaciones congénitas debidos a causas exógenas conocidas,1
+2020,D70X,Agranulocitosis,1
+2020,K593,"Megacolon, no clasificado en otra parte",1
+2020,K358,"Otras apendicitis agudas, y las no especificadas",1
+2020,K36X,Otros tipos de apendicitis,1
+2021,U071,"COVID-19, virus identificado.",152
+2021,U072,"COVID-19, virus no identificado.",98
+2021,E119,"Diabetes mellitus tipo 2, sin mención de complicación",23
+2021,J189,"Neumonía, no especificada",16
+2021,K729,"Insuficiencia hepática, no especificada",9
+2021,A418,Otras sepsis especificadas,6
+2021,K830,Colangitis,5
+2021,K922,"Hemorragia gastrointestinal, no especificada",5
+2021,K550,Trastorno vascular agudo de los intestinos,5
+2021,P072,Inmaturidad extrema,4
+2021,I10X,Hipertensión esencial (primaria),4
+2021,B24X,"Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación",4
+2021,A419,"Sepsis, no especificada",4
+2021,I64X,"Accidente vascular encefálico agudo, no especificado como hemorrágico o isquémico",3
+2021,K720,Insuficiencia hepática aguda o subaguda,3
+2021,K631,Perforación del intestino (no traumática),3
+2021,K721,Insuficiencia hepática crónica,3
+2021,A169,"Tuberculosis respiratoria no especificada, sin mención de confirmación bacteriológica o histológica",2
+2021,N179,"Insuficiencia renal aguda, no especificada",2
+2021,L089,"Infección local de la piel y del tejido subcutáneo, no especificada",2
+2021,K805,Cálculo de conducto biliar sin colangitis ni colecistitis,2
+2021,N189,"Enfermedad renal crónica, no especificada",2
+2021,I620,Hemorragia subdural (aguda) (no traumática),2
+2021,I509,"Insuficiencia cardíaca, no especificada",2
+2021,A162,"Tuberculosis de pulmón, sin mención de confirmación bacteriológica o histológica",2
+2021,C920,Leucemia mieloblástica aguda [LMA],1
+2021,P240,Aspiración neonatal de meconio,1
+2021,D599,"Anemia hemolítica adquirida, sin otra especificación",1
+2021,F100,"Trastornos mentales y del comportamiento debidos al uso de alcohol, intoxicación aguda",1
+2021,C809,"Tumor maligno, sitio primario no especificado",1
+2021,F102,"Trastornos mentales y del comportamiento debidos al uso de alcohol, síndrome de dependencia",1
+2021,D473,Trombocitopenia (hemorrágica) esencial,1
+2021,C187,Tumor maligno del colon sigmoide,1
+2021,E118,"Diabetes mellitus tipo 2, con complicaciones no especificadas",1
+2021,I219,"Infarto agudo del miocardio, sin otra especificación",1
+2021,E872,Acidosis,1
+2021,I269,Embolia pulmonar sin mención de corazón pulmonar agudo,1
+2021,C860,"Linfoma extranodal de células T/NK, tipo nasal",1
+2021,C220,Carcinoma de células hepáticas,1
+2021,K803,Cálculo de conducto biliar con colangitis,1
+2021,I609,"Hemorragia subaracnoidea, no especificada",1
+2021,K852,Pancreatitis aguda inducida por alcohol,1
+2021,C229,"Tumor maligno del hígado, no especificado",1
+2021,M329,"Lupus eritematoso sistémico, sin otra especificación",1
+2021,C250,Tumor maligno de la cabeza del páncreas,1
+2021,N739,"Enfermedad inflamatoria pélvica femenina, no especificada",1
+2021,I829,Embolia y trombosis de vena no especificada,1
+2021,Q282,Malformación arteriovenosa de los vasos cerebrales,1
+2021,I859,Várices esofágicas sin hemorragia,1
+2021,K579,"Enfermedad diverticular del intestino, parte no especificada, sin perforación ni absceso",1
+2021,A199,"Tuberculosis miliar, sin otra especificación",1
+2021,K703,Cirrosis hepática alcohólica,1
+2021,C719,"Tumor maligno del encéfalo, parte no especificada",1
+2021,C900,Mieloma múltiple,1
+2021,C751,Tumor maligno de la hipófisis,1
+2021,K746,Otras cirrosis del hígado y las no especificadas,1
+2021,J849,"Enfermedad pulmonar intersticial, no especificada",1
+2021,D410,Tumor de comportamiento incierto o desconocido del riñón,1
+2021,J850,Gangrena y necrosis del pulmón,1
+2021,K839,"Enfermedad de las vías biliares, no especificada",1
+2021,J869,Piotórax sin fístula,1
+2021,K859,"Pancreatitis aguda, no especificada",1
+2021,J960,Insuficiencia respiratoria aguda,1
+2021,D758,Otras enfermedades especificadas de la sangre y de los órganos hematopoyéticos,1
+2021,J981,Colapso pulmonar,1
+2021,D810,Inmunodeficiencia combinada severa [IDCS] con disgenesia reticular,1
+2021,J985,"Enfermedades del mediastino, no clasificadas en otra parte",1
+2021,N498,Otros trastornos inflamatorios de los órganos genitales masculinos,1
+2021,K221,Úlcera del esófago,1
+2021,A499,"Infección bacteriana, no especificada",1
+2021,K358,"Otras apendicitis agudas, y las no especificadas",1
+2021,Q248,"Otras malformaciones congénitas del corazón, especificadas",1
+2021,K37X,"Apendicitis, no especificada",1
+2021,Q790,Hernia diafragmática congénita,1
+2021,C763,Tumor maligno de la pelvis,1
+2021,K566,Otras obstrucciones intestinales y las no especificadas,1
+2021,J36X,Absceso periamigdalino,1
+2021,J841,Otras enfermedades pulmonares intersticiales con fibrosis,1
+2022,E119,"Diabetes mellitus tipo 2, sin mención de complicación",44
+2022,U071,"COVID-19, virus identificado.",38
+2022,J189,"Neumonía, no especificada",34
+2022,A418,Otras sepsis especificadas,14
+2022,B24X,"Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación",11
+2022,I10X,Hipertensión esencial (primaria),11
+2022,U072,"COVID-19, virus no identificado.",10
+2022,K729,"Insuficiencia hepática, no especificada",10
+2022,K631,Perforación del intestino (no traumática),8
+2022,S378,Traumatismo de otros órganos pélvicos,7
+2022,N189,"Enfermedad renal crónica, no especificada",6
+2022,K859,"Pancreatitis aguda, no especificada",6
+2022,K721,Insuficiencia hepática crónica,6
+2022,K550,Trastorno vascular agudo de los intestinos,6
+2022,K922,"Hemorragia gastrointestinal, no especificada",5
+2022,K830,Colangitis,5
+2022,C169,"Tumor maligno del estómago, parte no especificada",4
+2022,K701,Hepatitis alcohólica,4
+2022,A162,"Tuberculosis de pulmón, sin mención de confirmación bacteriológica o histológica",4
+2022,N390,"Infección de vías urinarias, sitio no especificado",3
+2022,K868,Otras enfermedades especificadas del páncreas,3
+2022,L089,"Infección local de la piel y del tejido subcutáneo, no especificada",3
+2022,C189,"Tumor maligno del colon, parte no especificada",2
+2022,C249,"Tumor maligno de las vías biliares, parte no especificada",2
+2022,C259,"Tumor maligno del páncreas, parte no especificada",2
+2022,C920,Leucemia mieloblástica aguda [LMA],2
+2022,S369,Traumatismo de órgano intraabdominal no especificado,2
+2022,D410,Tumor de comportamiento incierto o desconocido del riñón,2
+2022,F102,"Trastornos mentales y del comportamiento debidos al uso de alcohol, síndrome de dependencia",2
+2022,A499,"Infección bacteriana, no especificada",2
+2022,K259,"Úlcera gástrica, no especificada como aguda ni crónica, sin hemorragia ni perforación",2
+2022,N179,"Insuficiencia renal aguda, no especificada",2
+2022,D619,"Anemia aplástica, sin otra especificación",2
+2022,I219,"Infarto agudo del miocardio, sin otra especificación",2
+2022,E111,"Diabetes mellitus tipo 2, con cetoacidosis",2
+2022,P072,Inmaturidad extrema,2
+2022,E115,"Diabetes mellitus tipo 2, con complicaciones circulatorias periféricas",2
+2022,I509,"Insuficiencia cardíaca, no especificada",2
+2022,K746,Otras cirrosis del hígado y las no especificadas,2
+2022,A199,"Tuberculosis miliar, sin otra especificación",2
+2022,J150,Neumonía debida a Klebsiella pneumoniae,2
+2022,I609,"Hemorragia subaracnoidea, no especificada",2
+2022,E117,"Diabetes mellitus tipo 2, con complicaciones múltiples",1
+2022,K720,Insuficiencia hepática aguda o subaguda,1
+2022,K579,"Enfermedad diverticular del intestino, parte no especificada, sin perforación ni absceso",1
+2022,F100,"Trastornos mentales y del comportamiento debidos al uso de alcohol, intoxicación aguda",1
+2022,E102,"Diabetes mellitus tipo 1, con complicaciones renales",1
+2022,C509,"Tumor maligno de la mama, parte no especificada",1
+2022,E145,"Diabetes mellitus no especificada, con complicaciones circulatorias periféricas",1
+2022,G35X,Esclerosis múltiple,1
+2022,B379,"Candidiasis, no especificada",1
+2022,G409,"Epilepsia, tipo no especificado",1
+2022,K766,Hipertensión portal,1
+2022,G931,"Lesión cerebral anóxica, no clasificada en otra parte",1
+2022,M600,Miositis infecciosa,1
+2022,G939,"Trastorno del encéfalo, no especificado",1
+2022,P529,"Hemorragia intracraneal (no traumática) del feto y del recién nacido, sin otra especificación",1
+2022,C539,"Tumor maligno del cuello del útero, sin otra especificación",1
+2022,E271,Insuficiencia corticosuprarrenal primaria,1
+2022,C55X,"Tumor maligno del útero, parte no especificada",1
+2022,C900,Mieloma múltiple,1
+2022,I259,"Enfermedad isquémica crónica del corazón, no especificada",1
+2022,K716,Enfermedad tóxica del hígado con hepatitis no clasificada en otra parte,1
+2022,I269,Embolia pulmonar sin mención de corazón pulmonar agudo,1
+2022,D371,Tumor de comportamiento incierto o desconocido del estómago,1
+2022,I38X,"Endocarditis, válvula no especificada",1
+2022,C229,"Tumor maligno del hígado, no especificado",1
+2022,I429,"Cardiomiopatía, no especificada",1
+2022,L984,"Úlcera crónica de la piel, no clasificada en otra parte",1
+2022,I431,Cardiomiopatía en enfermedades metabólicas,1
+2022,C250,Tumor maligno de la cabeza del páncreas,1
+2022,I442,Bloqueo auriculoventricular completo,1
+2022,E118,"Diabetes mellitus tipo 2, con complicaciones no especificadas",1
+2022,I499,"Arritmia cardíaca, no especificada",1
+2022,R571,Choque hipovolémico,1
+2022,C629,"Tumor maligno del testículo, no especificado",1
+2022,T791,Embolia grasa (traumática),1
+2022,C64X,"Tumor maligno del riñón, excepto de la pelvis renal",1
+2022,E872,Acidosis,1
+2022,I610,"Hemorragia intracerebral en hemisferio, subcortical",1
+2022,K593,"Megacolon, no clasificado en otra parte",1
+2022,I64X,"Accidente vascular encefálico agudo, no especificado como hemorrágico o isquémico",1
+2022,K658,Otras peritonitis,1
+2022,I859,Várices esofágicas sin hemorragia,1
+2022,K704,Insuficiencia hepática alcohólica,1
+2022,J100,"Influenza con neumonía, debida a otro virus de la influenza estacional identificado",1
+2022,K719,"Enfermedad tóxica del hígado, no especificada",1
+2022,J110,"Influenza con neumonía, virus no identificado",1
+2022,C929,"Leucemia mieloide, sin otra especificación",1
+2022,J128,Neumonía debida a otros virus,1
+2022,C221,Carcinoma de vías biliares intrahepáticas,1
+2022,C679,"Tumor maligno de la vejiga urinaria, parte no especificada",1
+2022,D487,Tumor de comportamiento incierto o desconocido de otros sitios especificados,1
+2022,C689,Tumor maligno de órgano urinario no especificado,1
+2022,D699,"Afección hemorrágica, no especificada",1
+2022,J449,"Enfermedad pulmonar obstructiva crónica, no especificada",1
+2022,B690,Cisticercosis del sistema nervioso central,1
+2022,J80X,Síndrome de dificultad respiratoria del adulto,1
+2022,M329,"Lupus eritematoso sistémico, sin otra especificación",1
+2022,J850,Gangrena y necrosis del pulmón,1
+2022,E112,"Diabetes mellitus tipo 2, con complicaciones renales",1
+2022,J960,Insuficiencia respiratoria aguda,1
+2022,N200,Cálculo del riñón,1
+2022,J984,Otros trastornos del pulmón,1
+2022,O987,"Enfermedad por virus de la inmunodeficiencia humana [VIH] que complica el embarazo, el parto y el puerperio",1
+2022,C799,"Tumor maligno secundario, sitio no especificado",1
+2022,P219,"Asfixia del nacimiento, no especificada",1
+2022,K318,Otras enfermedades especificadas del estómago y del duodeno,1
+2022,Q249,"Malformación congénita del corazón, no especificada",1
+2022,K358,"Otras apendicitis agudas, y las no especificadas",1
+2022,B182,Hepatitis viral tipo C crónica,1
+2022,K421,Hernia umbilical con gangrena,1
+2022,S720,Fractura del cuello de fémur,1
+2022,K429,Hernia umbilical sin obstrucción ni gangrena,1
+2022,T845,Infección y reacción inflamatoria debidas a prótesis articular interna,1
+2022,C837,Linfoma de Burkitt,1
+2022,E46X,"Desnutrición proteicocalórica, no especificada",1
+2022,K560,Íleo paralítico,1
+2022,K561,Invaginación,1
+2023,J189,"Neumonía, no especificada",55
+2023,E119,"Diabetes mellitus tipo 2, sin mención de complicación",24
+2023,P072,Inmaturidad extrema,15
+2023,K721,Insuficiencia hepática crónica,14
+2023,B24X,"Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación",11
+2023,I10X,Hipertensión esencial (primaria),11
+2023,K859,"Pancreatitis aguda, no especificada",9
+2023,A418,Otras sepsis especificadas,9
+2023,K830,Colangitis,8
+2023,N189,"Enfermedad renal crónica, no especificada",7
+2023,K729,"Insuficiencia hepática, no especificada",7
+2023,K550,Trastorno vascular agudo de los intestinos,6
+2023,U071,"COVID-19, virus identificado.",6
+2023,K720,Insuficiencia hepática aguda o subaguda,5
+2023,L089,"Infección local de la piel y del tejido subcutáneo, no especificada",5
+2023,K358,"Otras apendicitis agudas, y las no especificadas",5
+2023,A419,"Sepsis, no especificada",4
+2023,N390,"Infección de vías urinarias, sitio no especificado",3
+2023,K922,"Hemorragia gastrointestinal, no especificada",3
+2023,K631,Perforación del intestino (no traumática),3
+2023,F102,"Trastornos mentales y del comportamiento debidos al uso de alcohol, síndrome de dependencia",3
+2023,E872,Acidosis,3
+2023,C629,"Tumor maligno del testículo, no especificado",3
+2023,K566,Otras obstrucciones intestinales y las no especificadas,3
+2023,I219,"Infarto agudo del miocardio, sin otra especificación",2
+2023,K750,Absceso del hígado,2
+2023,I489,"Fibrilación y aleteo auricular, no especificado",2
+2023,I64X,"Accidente vascular encefálico agudo, no especificado como hemorrágico o isquémico",2
+2023,A169,"Tuberculosis respiratoria no especificada, sin mención de confirmación bacteriológica o histológica",2
+2023,A047,Enterocolitis debida a Clostridium difficile,2
+2023,L899,"Úlcera de decúbito y por área de presión, no especificada",2
+2023,N179,"Insuficiencia renal aguda, no especificada",2
+2023,K746,Otras cirrosis del hígado y las no especificadas,2
+2023,E118,"Diabetes mellitus tipo 2, con complicaciones no especificadas",2
+2023,K802,Cálculo de la vesícula biliar sin colecistitis,2
+2023,C719,"Tumor maligno del encéfalo, parte no especificada",2
+2023,K851,Pancreatitis biliar aguda,2
+2023,K579,"Enfermedad diverticular del intestino, parte no especificada, sin perforación ni absceso",2
+2023,I259,"Enfermedad isquémica crónica del corazón, no especificada",2
+2023,D489,"Tumor de comportamiento incierto o desconocido, de sitio no especificado",2
+2023,M726,Fascitis necrotizante,2
+2023,C259,"Tumor maligno del páncreas, parte no especificada",2
+2023,B182,Hepatitis viral tipo C crónica,2
+2023,K469,"Hernia abdominal no especificada, sin obstrucción ni gangrena",2
+2023,A499,"Infección bacteriana, no especificada",2
+2023,D648,Otras anemias especificadas,1
+2023,M349,"Esclerosis sistémica, no especificada",1
+2023,C383,"Tumor maligno del mediastino, parte no especificada",1
+2023,I429,"Cardiomiopatía, no especificada",1
+2023,C229,"Tumor maligno del hígado, no especificado",1
+2023,C710,"Tumor maligno del cerebro, excepto lóbulos y ventrículos",1
+2023,E039,"Hipotiroidismo, no especificado",1
+2023,I500,Insuficiencia cardíaca congestiva,1
+2023,L511,Eritema multiforme flictenular,1
+2023,I509,"Insuficiencia cardíaca, no especificada",1
+2023,N12X,"Nefritis tubulointersticial, no especificada como aguda o crónica",1
+2023,I609,"Hemorragia subaracnoidea, no especificada",1
+2023,K704,Insuficiencia hepática alcohólica,1
+2023,C250,Tumor maligno de la cabeza del páncreas,1
+2023,D696,Trombocitopenia no especificada,1
+2023,J09X,Influenza debida a virus de la influenza zoonóyico o pandémico identificados,1
+2023,A162,"Tuberculosis de pulmón, sin mención de confirmación bacteriológica o histológica",1
+2023,J108,"Influenza, con otras manifestaciones, debida a otro virus de la influenza estacional identificado",1
+2023,E875,Hiperpotasemia,1
+2023,J110,"Influenza con neumonía, virus no identificado",1
+2023,L930,Lupus eritematoso discoide,1
+2023,R570,Choque cardiogénico,1
+2023,M869,"Osteomielitis, no especificada",1
+2023,C73X,Tumor maligno de la glándula tiroides,1
+2023,C61X,Tumor maligno de la próstata,1
+2023,P369,"Sepsis bacteriana del recién nacido, no especificada",1
+2023,P220,Síndrome de dificultad respiratoria del recién nacido,1
+2023,Q019,"Encefalocele, no especificado",1
+2023,K719,"Enfermedad tóxica del hígado, no especificada",1
+2023,Q251,Coartación de la aorta,1
+2023,B179,Hepatitis viral aguda no especificada,1
+2023,Q754,Disostosis maxilofacial,1
+2023,K743,Cirrosis biliar primaria,1
+2023,Q872,Síndromes de malformaciones congénitas que afectan principalmente los miembros,1
+2023,C349,"Tumor maligno de los bronquios o del pulmón, parte no especificada",1
+2023,K316,Fístula del estómago y del duodeno,1
+2023,E149,"Diabetes mellitus no especificada, sin mención de complicación",1
+2023,C782,Tumor maligno secundario de la pleura,1
+2023,B461,Mucormicosis rinocerebral,1
+2023,K400,"Hernia inguinal bilateral con obstrucción, sin gangrena",1
+2023,C482,"Tumor maligno del peritoneo, sin otra especificación",1
+2023,C900,Mieloma múltiple,1
+2023,G939,"Trastorno del encéfalo, no especificado",1
+2023,A86X,"Encefalitis viral, no especificada",1
+2023,M329,"Lupus eritematoso sistémico, sin otra especificación",1
+2023,K562,Vólvulo,1
+2023,C574,"Tumor maligno de los anexos uterinos, sin otra especificación",1
+2023,D377,Tumor de comportamiento incierto o desconocido de otros órganos digestivos especificados,1
+2023,N052,"Síndrome nefrítico no especificado, glomerulonefritis membranosa difusa",1
+2023,D472,Gammopatía monoclonal de significado incierto [GMSI],1
+2023,N151,Absceso renal y perirrenal,1
+2023,C189,"Tumor maligno del colon, parte no especificada",1
+2023,C140,"Tumor maligno de la faringe, parte no especificada",1
+2023,K650,Peritonitis aguda,1
+2023,C170,Tumor maligno del duodeno,1
+2023,K659,"Peritonitis, no especificada",1
+2023,I358,Otros trastornos de la válvula aórtica,1
+2023,K701,Hepatitis alcohólica,1
+2023,Q048,"Otras malformaciones congénitas del encéfalo, especificadas",1
+2023,J390,Absceso retrofaríngeo y parafaríngeo,1
+2023,Q283,Otras malformaciones de los vasos cerebrales,1
+2023,J449,"Enfermedad pulmonar obstructiva crónica, no especificada",1
+2023,Q772,Síndrome de costilla corta,1
+2023,J849,"Enfermedad pulmonar intersticial, no especificada",1
+2023,C180,Tumor maligno del ciego,1
+2023,J969,"Insuficiencia respiratoria, no especificada",1
+2023,J129,"Neumonía viral, no especificada",1
+2023,J152,Neumonía debida a estafilococos,1
+2024,J189,"Neumonía, no especificada",12
+2024,P072,Inmaturidad extrema,8
+2024,E119,"Diabetes mellitus tipo 2, sin mención de complicación",6
+2024,K859,"Pancreatitis aguda, no especificada",4
+2024,L089,"Infección local de la piel y del tejido subcutáneo, no especificada",4
+2024,A418,Otras sepsis especificadas,4
+2024,N189,"Enfermedad renal crónica, no especificada",3
+2024,E149,"Diabetes mellitus no especificada, sin mención de complicación",3
+2024,B24X,"Enfermedad por virus de la inmunodeficiencia humana [VIH], sin otra especificación",2
+2024,K830,Colangitis,2
+2024,C61X,Tumor maligno de la próstata,2
+2024,K720,Insuficiencia hepática aguda o subaguda,2
+2024,K721,Insuficiencia hepática crónica,2
+2024,K550,Trastorno vascular agudo de los intestinos,2
+2024,A419,"Sepsis, no especificada",2
+2024,N179,"Insuficiencia renal aguda, no especificada",1
+2024,C629,"Tumor maligno del testículo, no especificado",1
+2024,K650,Peritonitis aguda,1
+2024,D688,Otros defectos especificados de la coagulación,1
+2024,C719,"Tumor maligno del encéfalo, parte no especificada",1
+2024,C189,"Tumor maligno del colon, parte no especificada",1
+2024,D479,"Tumores de comportamiento incierto o desconocido del tejido linfático, de los órganos hematopoyéticos y de tejidos afines, no especificados",1
+2024,C20X,Tumor maligno del recto,1
+2024,K701,Hepatitis alcohólica,1
+2024,E872,Acidosis,1
+2024,K820,Obstrucción de la vesícula biliar,1
+2024,F100,"Trastornos mentales y del comportamiento debidos al uso de alcohol, intoxicación aguda",1
+2024,C760,"Tumor maligno de la cabeza, cara y cuello",1
+2024,F199,"Trastornos mentales y del comportamiento debidos al uso de múltiples drogas y al uso de otras sustancias psicoactivas, trastorno mental y del comportamiento, no especificado",1
+2024,O715,Otros traumatismos obstétricos de los órganos pelvianos,1
+2024,G048,"Otras encefalitis, mielitis y encefalomielitis",1
+2024,D619,"Anemia aplástica, sin otra especificación",1
+2024,G809,"Parálisis cerebral, sin otra especificación",1
+2024,K659,"Peritonitis, no especificada",1
+2024,I443,Otros tipos de bloqueo auriculoventricular y los no especificados,1
+2024,A480,Gangrena gaseosa,1
+2024,I679,"Enfermedad cerebrovascular, no especificada",1
+2024,K810,Colecistitis aguda,1
+2024,Q249,"Malformación congénita del corazón, no especificada",1
+2024,C710,"Tumor maligno del cerebro, excepto lóbulos y ventrículos",1
+2024,C221,Carcinoma de vías biliares intrahepáticas,1
+2024,K922,"Hemorragia gastrointestinal, no especificada",1
+2024,K439,Otras hernias ventrales y las no especificadas sin obstrucción o gangrena,1
+2024,L930,Lupus eritematoso discoide,1
+2024,K519,"Colitis Ulcerativa, sin otra especificación",1
+2024,D374,Tumor de comportamiento incierto o desconocido del colon,1
+2024,C250,Tumor maligno de la cabeza del páncreas,1
+2024,P071,Otro peso bajo al nacer,1
+2024,K562,Vólvulo,1
+2024,P368,Sepsis del recién nacido debida a otras bacterias,1
+2024,K566,Otras obstrucciones intestinales y las no especificadas,1
+2024,K631,Perforación del intestino (no traumática),1
+2024,S065,Hemorragia subdural traumática,1
+2024,K269,"Úlcera duodenal, no especificada como aguda ni crónica, sin hemorragia ni perforación",1
